@@ -33,4 +33,4 @@ Strong background in Python, NLP, computer vision, and full-stack development, a
 
  **<h3 align="left">Support Me</h3>**
 
-<p align="left"><a href="https://ko-fi.com/sushil_" target="_blank"><img src="https://img.shields.io/badge/Ko--fi-343B45?logo=kofi&logoColor=Black" height="36" style="margin-right: 4px"></a></p>
+<p align="left"><a href="" target="_blank"><img src="https://img.shields.io/badge/Ko--fi-343B45?logo=kofi&logoColor=Black" height="36" style="margin-right: 4px"></a></p>
