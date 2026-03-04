@@ -34,3 +34,5 @@ Strong background in Python, NLP, computer vision, and full-stack development, a
  **<h3 align="left">Support Me</h3>**
 
 <p align="left"><a href="" target="_blank"><img src="https://img.shields.io/badge/Ko--fi-343B45?logo=kofi&logoColor=Black" height="36" style="margin-right: 4px"></a></p>
+
+![snake gif](https://github.com/VILAS07/VILAS07/blob/output/github-snake-dark.svg)
