@@ -26,7 +26,7 @@
 
 <h3 align="left">Rapid Fire</h3>
 
-- 💼 I'm currently working on: **Fundamental Analysis AI System for Stock Evaluation**
+- 💼 I'm currently working on: **Web Scraping & Data Extraction Project using Scrapy**
 - 🌱 I'm currently learning: **Advanced Multimodal AI Models and Model Fine-tuning & Transfer Learning for Medical Imaging**
 - 💬 Ask me about: **AI, ML, NLP, Computer Vision, Python, React, Node.js**
 - ⚡ Fun fact: **I talk to AI models more than I talk to humans some days**
