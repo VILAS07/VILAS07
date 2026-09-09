@@ -1,26 +1,41 @@
 <div align="center">
 
-<img src="./vilas-system.svg" alt="Vilas PK — AI system profile" width="100%" />
+<img src="./vilas-system.svg" alt="Vilas PK — AI / ML Engineer" width="100%" />
 
 </div>
 
-## `featured_projects`
+## `what_i_build`
 
-| Project | Focus |
+**Intelligent systems that turn ideas into useful software.**
+
+`AI Agents` · `LLM Applications` · `Computer Vision` · `Automation` · `Machine Learning`
+
+## `selected_work`
+
+| Project | What it shows |
 |---|---|
-| [Integrated AI Assistant](https://github.com/VILAS07/Integrated-AI-Assistant-for-Visually-Impaired-People) | Computer Vision · LLMs · Accessibility |
-| [Meeting-Agent](https://github.com/VILAS07/Meeting-Agent) | LLMs · Agents · NLP |
-| [VMExitReport](https://github.com/VILAS07/vmexitreport) | Automation · Reporting · DevOps |
-| [Transaction Reconciliation](https://github.com/VILAS07/transaction-reconciliation-system) | Python · Streamlit · Data |
-| [Sign Language Recognition](https://github.com/VILAS07/Sign-Language-Recogonition) | Deep Learning · Computer Vision |
+| **[Integrated AI Assistant](https://github.com/VILAS07/Integrated-AI-Assistant-for-Visually-Impaired-People)** | Computer vision + LLMs + accessibility |
+| **[Meeting-Agent](https://github.com/VILAS07/Meeting-Agent)** | LLM pipelines + agents + NLP |
+| **[VMExitReport](https://github.com/VILAS07/vmexitreport)** | Automation + reporting + engineering |
+| **[Transaction Reconciliation](https://github.com/VILAS07/transaction-reconciliation-system)** | Data processing + Streamlit + anomaly detection |
+| **[Sign Language Recognition](https://github.com/VILAS07/Sign-Language-Recogonition)** | Deep learning + computer vision |
 
 ## `toolbox`
 
-`Python` · `PyTorch` · `TensorFlow` · `OpenCV` · `LLMs` · `AI Agents` · `React` · `TypeScript` · `Linux` · `Git`
+**AI / ML**  `Python` `PyTorch` `TensorFlow` `OpenCV` `LLMs`
+
+**Engineering**  `React` `TypeScript` `Linux` `Git` `Automation`
+
+## `currently`
+
+- Building practical AI agents
+- Exploring multimodal AI systems
+- Improving real-world ML projects
+- Learning by shipping
 
 ## `connect`
 
-[GitHub](https://github.com/VILAS07) · [Portfolio](https://github.com/VILAS07/Portfolio) · [LinkedIn](https://www.linkedin.com/) · [Email](mailto:)
+[GitHub](https://github.com/VILAS07) · [Portfolio](https://github.com/VILAS07/Portfolio)
 
 ---
 
