@@ -1,0 +1,75 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 430" role="img" aria-labelledby="title desc">
+  <title id="title">Vilas PK — AI and ML Engineer</title>
+  <desc id="desc">A minimal animated AI system visualization for the GitHub profile of Vilas PK.</desc>
+  <defs>
+    <linearGradient id="glow" x1="0" x2="1">
+      <stop offset="0" stop-color="#22c55e"/>
+      <stop offset="0.55" stop-color="#22d3ee"/>
+      <stop offset="1" stop-color="#60a5fa"/>
+    </linearGradient>
+    <filter id="soft"><feGaussianBlur stdDeviation="7" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+    <filter id="tiny"><feGaussianBlur stdDeviation="2" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+    <style>
+      .mono{font-family:ui-monospace,SFMono-Regular,Menlo,Monaco,Consolas,"Liberation Mono",monospace}
+      .muted{fill:#8191a5}.text{fill:#d7e0ea}.green{fill:#22c55e}.cyan{fill:#22d3ee}.blue{fill:#60a5fa}
+      .line{stroke:#173044;stroke-width:1}.orbit{fill:none;stroke:#16445a;stroke-width:1.2}.dash{stroke-dasharray:5 9}
+      .pulse{animation:pulse 2.2s ease-in-out infinite}.spin{transform-origin:300px 215px;animation:spin 18s linear infinite}.spin2{transform-origin:300px 215px;animation:spin 27s linear infinite reverse}
+      .flow{stroke-dasharray:2 14;animation:flow 2.5s linear infinite}.blink{animation:blink 1.1s steps(2,end) infinite}
+      @keyframes pulse{0%,100%{opacity:.45}50%{opacity:1}} @keyframes spin{to{transform:rotate(360deg)}} @keyframes flow{to{stroke-dashoffset:-80}} @keyframes blink{50%{opacity:0}}
+    </style>
+  </defs>
+  <rect width="1200" height="430" rx="18" fill="#070b10" stroke="#173044"/>
+  <path d="M22 55H1178M22 365H1178" class="line"/>
+  <text x="34" y="34" class="mono muted" font-size="14">VILAS@AI-SYSTEM:~$ ./initialize_profile</text>
+  <text x="1105" y="34" text-anchor="end" class="mono green" font-size="13">[ ONLINE ]</text>
+
+  <!-- system visualization -->
+  <g class="spin">
+    <ellipse cx="300" cy="215" rx="205" ry="82" class="orbit" transform="rotate(-18 300 215)"/>
+    <ellipse cx="300" cy="215" rx="205" ry="82" class="orbit" transform="rotate(42 300 215)"/>
+    <ellipse cx="300" cy="215" rx="205" ry="82" class="orbit" transform="rotate(102 300 215)"/>
+    <circle cx="505" cy="184" r="5" class="cyan pulse"/>
+    <circle cx="116" cy="253" r="5" class="green pulse"/>
+    <circle cx="335" cy="134" r="5" class="blue pulse"/>
+  </g>
+  <g class="spin2">
+    <circle cx="300" cy="215" r="132" class="orbit dash"/>
+    <circle cx="168" cy="215" r="4" class="green pulse"/>
+    <circle cx="432" cy="215" r="4" class="cyan pulse"/>
+  </g>
+  <circle cx="300" cy="215" r="55" fill="#0b1820" stroke="url(#glow)" stroke-width="2" filter="url(#soft)"/>
+  <circle cx="300" cy="215" r="43" fill="#09131a" stroke="#22c55e"/>
+  <text x="300" y="221" text-anchor="middle" class="mono green" font-size="20">AI</text>
+  <path d="M75 332H525" class="line"/>
+  <text x="75" y="388" class="mono muted" font-size="12">IDEA</text><text x="150" y="388" class="mono muted" font-size="12">→</text><text x="180" y="388" class="mono muted" font-size="12">MODEL</text><text x="270" y="388" class="mono muted" font-size="12">→</text><text x="300" y="388" class="mono muted" font-size="12">SYSTEM</text><text x="395" y="388" class="mono muted" font-size="12">→</text><text x="430" y="388" class="mono muted" font-size="12">IMPACT</text>
+
+  <!-- profile terminal -->
+  <g class="mono">
+    <text x="575" y="92" class="green" font-size="14">&gt; whoami</text>
+    <text x="575" y="126" fill="#f3f7fb" font-size="34" font-weight="700">VILAS PK<span class="green blink">_</span></text>
+    <text x="575" y="153" class="cyan" font-size="15">AI / ML ENGINEER</text>
+    <text x="575" y="185" class="muted" font-size="13">Building intelligent systems that solve real problems.</text>
+
+    <text x="575" y="224" class="green" font-size="13">// focus</text>
+    <text x="575" y="249" class="text" font-size="13">[ AGENTS ]  [ LLMs ]  [ COMPUTER VISION ]</text>
+    <text x="575" y="271" class="text" font-size="13">[ AUTOMATION ]  [ MACHINE LEARNING ]</text>
+
+    <text x="575" y="313" class="green" font-size="13">// selected systems</text>
+    <text x="575" y="338" class="text" font-size="13">01  Integrated AI Assistant</text>
+    <text x="575" y="358" class="text" font-size="13">02  Meeting-Agent</text>
+    <text x="575" y="378" class="text" font-size="13">03  VMExitReport</text>
+    <text x="575" y="398" class="text" font-size="13">04  Transaction Reconciliation</text>
+
+    <rect x="945" y="72" width="205" height="286" rx="10" fill="#091016" stroke="#173044"/>
+    <text x="965" y="103" class="cyan" font-size="13">system.status</text>
+    <circle cx="970" cy="133" r="4" class="green"/><text x="985" y="138" class="text" font-size="12">BUILDING</text>
+    <circle cx="970" cy="163" r="4" class="green"/><text x="985" y="168" class="text" font-size="12">LEARNING</text>
+    <circle cx="970" cy="193" r="4" class="green"/><text x="985" y="198" class="text" font-size="12">EXPLORING</text>
+    <circle cx="970" cy="223" r="4" class="blue"/><text x="985" y="228" class="text" font-size="12">OPEN SOURCE</text>
+    <path d="M965 247H1130" class="line"/>
+    <text x="965" y="274" class="muted" font-size="11">CURRENT MODE</text>
+    <text x="965" y="295" class="green" font-size="13">MAKE IT USEFUL</text>
+    <text x="965" y="325" class="muted" font-size="11">NEXT ACTION</text>
+    <text x="965" y="346" class="cyan" font-size="12">SHIP → TEST → IMPROVE</text>
+  </g>
+</svg>
