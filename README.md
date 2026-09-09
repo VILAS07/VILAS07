@@ -1,39 +1,32 @@
 <div align="center">
 
-<img src="./vilas-system.svg" alt="Vilas PK — AI / ML Engineer" width="100%" />
+<img src="./vilas-system.svg" alt="Vilas PK — AI, ML & Systems" width="100%" />
 
 </div>
 
-## `what_i_build`
+# Selected work
 
-**Intelligent systems that turn ideas into useful software.**
+I like building **practical AI systems** — the kind that move from an idea, through experiments, into something people can actually use.
 
-`AI Agents` · `LLM Applications` · `Computer Vision` · `Automation` · `Machine Learning`
+| | Project | Focus |
+|---|---|---|
+| **01** | **[Integrated AI Assistant](https://github.com/VILAS07/Integrated-AI-Assistant-for-Visually-Impaired-People)** | Computer vision · LLMs · accessibility |
+| **02** | **[Meeting-Agent](https://github.com/VILAS07/Meeting-Agent)** | Agents · NLP · LLM pipelines |
+| **03** | **[VMExitReport](https://github.com/VILAS07/vmexitreport)** | Automation · reporting · engineering |
+| **04** | **[Transaction Reconciliation](https://github.com/VILAS07/transaction-reconciliation-system)** | Data processing · Streamlit · anomaly detection |
+| **05** | **[Sign Language Recognition](https://github.com/VILAS07/Sign-Language-Recogonition)** | Deep learning · computer vision |
 
-## `selected_work`
+## What I work with
 
-| Project | What it shows |
-|---|---|
-| **[Integrated AI Assistant](https://github.com/VILAS07/Integrated-AI-Assistant-for-Visually-Impaired-People)** | Computer vision + LLMs + accessibility |
-| **[Meeting-Agent](https://github.com/VILAS07/Meeting-Agent)** | LLM pipelines + agents + NLP |
-| **[VMExitReport](https://github.com/VILAS07/vmexitreport)** | Automation + reporting + engineering |
-| **[Transaction Reconciliation](https://github.com/VILAS07/transaction-reconciliation-system)** | Data processing + Streamlit + anomaly detection |
-| **[Sign Language Recognition](https://github.com/VILAS07/Sign-Language-Recogonition)** | Deep learning + computer vision |
+`Python` `PyTorch` `TensorFlow` `OpenCV` `LLMs` `AI Agents` `React` `TypeScript` `Linux` `Git`
 
-## `toolbox`
+## Current direction
 
-**AI / ML**  `Python` `PyTorch` `TensorFlow` `OpenCV` `LLMs`
+**AI agents → multimodal systems → useful automation → better products**
 
-**Engineering**  `React` `TypeScript` `Linux` `Git` `Automation`
+I'm interested in the space where machine learning meets real software engineering: designing systems, testing ideas, shipping prototypes, and improving them through use.
 
-## `currently`
-
-- Building practical AI agents
-- Exploring multimodal AI systems
-- Improving real-world ML projects
-- Learning by shipping
-
-## `connect`
+## Elsewhere
 
 [GitHub](https://github.com/VILAS07) · [Portfolio](https://github.com/VILAS07/Portfolio)
 
@@ -41,6 +34,6 @@
 
 <div align="center">
 
-`THINK → BUILD → LEARN → REPEAT`
+**BUILD / SHIP / LEARN / ITERATE**
 
 </div>
